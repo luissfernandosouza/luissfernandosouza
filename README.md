@@ -1,6 +1,6 @@
 <div align="center">
-  <h1> Hello world 👋 </h1>
-  <h2> Meu nome é Luís Fernando, sou desenvolvedor Front-end.</h2>
+  <h1> Hello world 👋 I'm Luís </h1>
+  <h2> Sou desenvolvedor Front-end.</h2>
 </div>
 
 <div style="display: inline_block" align="center"><br>
