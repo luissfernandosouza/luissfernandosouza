@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hello world 👋 I'm Luís </h1>
-  <h2> I'm currently working for [Magazord Digital Commerce](http://magazord.com.br/)</h2>
+  <h2> I'm currently working for(http://magazord.com.br/)</h2>
 </div>
 
 <div style="display: inline_block" align="center"><br>
