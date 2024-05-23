@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hello world 👋 I'm Luís </h1>
-  <h2> I'm currently working for(http://magazord.com.br/)</h2>
+  <h2> I'm currently working for http://magazord.com.br/</h2>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -16,5 +16,5 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=luissfernandosouza&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luissfernandosouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" height="175em"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luissfernandosouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" height="170em"/>
 </div>
