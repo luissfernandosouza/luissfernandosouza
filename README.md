@@ -16,5 +16,5 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=luissfernandosouza&show_icons=true&theme=radical" width="49%" height="190em"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luissfernandosouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" height="180em"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luissfernandosouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" height="175em"/>
 </div>
