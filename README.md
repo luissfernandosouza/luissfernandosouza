@@ -12,4 +12,8 @@
   <img align="center" alt="luis-vscode" height="30" width="100" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
 </div>
 
+<h1>#Stats</h1>
 
+[<img src="https://github-readme-stats.vercel.app/api?username=luissfernandosouza&show_icons=true&theme=radical" width="50%"/>]()
+
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luissfernandosouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%"/>]()
